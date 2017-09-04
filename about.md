@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This site hosts notes and updates related to our research on dynamic time 
+warping spaces. Dynamic time warping spaces are time series spaces endowed with 
+a dynamic time warping distance. Such spaces have a weird form we are trying to
+understand.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:brijnesh.jain@gmail.com)
