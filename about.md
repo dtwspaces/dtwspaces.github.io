@@ -4,14 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This site hosts notes and updates related to our research on dynamic time 
-warping spaces. Dynamic time warping spaces are time series spaces endowed with 
-a dynamic time warping distance. Such spaces have a weird form we are trying to
-understand.
+A synamic time warping space is a set of time series endowed with a dynamic time warping distance. Compared to Euclidean spaces, DTW spaces have a bizarre form and are scarcely explored. This site hosts notes and updates related to our research on DTW spaces. 
 
 
 ### More Information
 
 ### Contact me
 
-[email@domain.com](mailto:brijnesh.jain@gmail.com)
+[brijnesh.jain@gmail.com](mailto:brijnesh.jain@gmail.com)
