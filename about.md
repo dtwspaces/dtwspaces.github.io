@@ -8,8 +8,9 @@ A dynamic time warping space is a set of time series endowed with a dynamic time
 
 
 ### People:
-Brijnesh J. Jain
-David Schultz 
+
+- Brijnesh J. Jain
+- David Schultz 
 
 ### Contact:
 
